@@ -1,0 +1,161 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.leaderboard {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #e9e9e9;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  li:first-child {
+    background-color: #ffd700;
+  }
+  
+  .username {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .messages {
+    font-size: 16px;
+    color: #000000;
+    font-weight: bolder;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .username {
+      font-size: 20px;
+    }
+    
+    .messages {
+      font-size: 14px;
+    }
+    
+    li {
+      padding: 10px;
+    }
+    
+    h2 {
+      font-size: 20px;
+    }
+  }
+
+  li:nth-child(2) {
+    background-color: silver;
+  }
+
+
+  li:nth-child(3) {
+    background-color: #CD7F32;
+  }
+
+  footer {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .offline-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .offline-container img {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+  }
+  
+  .offline-container h3 {
+    font-size: 18px;
+    margin: 0;
+    font-weight: normal;
+  }
+
+  .navbar {
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  .navbar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .navbar-logo {
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+  }
+  
+  .navbar-heading {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: lightgray;
+    margin-top: 30px;
+  }
+  
+  .left-image,
+  .right-image {
+    height: 75px;
+    width: 75px;
+  }
+  
+  .left-image {
+    margin-right: 20px;
+  }
+  
+  .right-image {
+    margin-left: 20px;
+  }
+  
+  .number {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  .centered-heading {
+    text-align: center;
+  }
+  .continerOfContainer:first-child {
+    background-color: gold;
+  }
