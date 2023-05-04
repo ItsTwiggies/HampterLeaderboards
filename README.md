@@ -1,16 +1,22 @@
-# Very official leaderboard logs 
-This is the very official (real) Hampter
-Gayming leaderboards which is clearly one of
-the best leaderboards ever.
+# Leaderboards Link:
 
--Ver 1.0
+Live Page: https://itstwiggies.github.io/HampterLeaderboards/
+
+# Ver 1.0 Update Log
 
 ![test](https://media.discordapp.net/attachments/1055887036126601268/1103643173424738366/image.png?width=755&height=458)
 
-Logs: Ver.1.1
+- Added Messages Gap.
+- Added Messages Count.
+- Added tables which hold data.
+
+# Ver 1.1 Update Log
+
+![test](https://media.discordapp.net/attachments/1055887036126601268/1103643312017129492/image.png?width=755&height=458)
+
 - Added Dark theme.
 
-Logs: Ver.1.1.1
+#  Ver 1.1.1 Update
+
 - Added big black man twerking. Following the request of leroy.
 
-Live Page: https://itstwiggies.github.io/HampterLeaderboards/
